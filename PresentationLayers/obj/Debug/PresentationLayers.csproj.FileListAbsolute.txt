@@ -1,0 +1,49 @@
+c:\users\ngotantruong\documents\visual studio 2013\Projects\TRUBOM\PresentationLayers\bin\Debug\PresentationLayers.exe.config
+c:\users\ngotantruong\documents\visual studio 2013\Projects\TRUBOM\PresentationLayers\obj\Debug\PresentationLayers.csprojResolveAssemblyReference.cache
+c:\users\ngotantruong\documents\visual studio 2013\Projects\TRUBOM\PresentationLayers\obj\Debug\PresentationLayers.Properties.Resources.resources
+c:\users\ngotantruong\documents\visual studio 2013\Projects\TRUBOM\PresentationLayers\obj\Debug\PresentationLayers.csproj.GenerateResource.Cache
+c:\users\ngotantruong\documents\visual studio 2013\Projects\TRUBOM\PresentationLayers\obj\Debug\PresentationLayers.frm_trubom.resources
+c:\users\ngotantruong\documents\visual studio 2013\Projects\TRUBOM\PresentationLayers\bin\Debug\PresentationLayers.exe
+c:\users\ngotantruong\documents\visual studio 2013\Projects\TRUBOM\PresentationLayers\bin\Debug\PresentationLayers.pdb
+c:\users\ngotantruong\documents\visual studio 2013\Projects\TRUBOM\PresentationLayers\obj\Debug\PresentationLayers.Fr_GiayChungNhan.resources
+c:\users\ngotantruong\documents\visual studio 2013\Projects\TRUBOM\PresentationLayers\obj\Debug\PresentationLayers.exe
+c:\users\ngotantruong\documents\visual studio 2013\Projects\TRUBOM\PresentationLayers\obj\Debug\PresentationLayers.pdb
+D:\Winform\TRUBOM\PresentationLayers\bin\Debug\PresentationLayers.exe.config
+D:\Winform\TRUBOM\PresentationLayers\obj\Debug\PresentationLayers.exe
+D:\Winform\TRUBOM\PresentationLayers\obj\Debug\PresentationLayers.pdb
+D:\Winform\TRUBOM\PresentationLayers\bin\Debug\PresentationLayers.exe
+D:\Winform\TRUBOM\PresentationLayers\bin\Debug\PresentationLayers.pdb
+D:\Winform\TRUBOM\PresentationLayers\obj\Debug\PresentationLayers.csprojResolveAssemblyReference.cache
+D:\Winform\TRUBOM\PresentationLayers\obj\Debug\PresentationLayers.frm_trubom.resources
+D:\Winform\TRUBOM\PresentationLayers\obj\Debug\PresentationLayers.Fr_GiayChungNhan.resources
+D:\Winform\TRUBOM\PresentationLayers\obj\Debug\PresentationLayers.Fr_GiayKiemDinh.resources
+D:\Winform\TRUBOM\PresentationLayers\obj\Debug\PresentationLayers.Properties.Resources.resources
+D:\Winform\TRUBOM\PresentationLayers\obj\Debug\PresentationLayers.csproj.GenerateResource.Cache
+C:\TRUBOM\PresentationLayers\obj\Debug\PresentationLayers.frm_trubom.resources
+C:\TRUBOM\PresentationLayers\obj\Debug\PresentationLayers.Fr_GiayChungNhan.resources
+C:\TRUBOM\PresentationLayers\obj\Debug\PresentationLayers.Fr_GiayKiemDinh.resources
+C:\TRUBOM\PresentationLayers\obj\Debug\PresentationLayers.Properties.Resources.resources
+C:\TRUBOM\PresentationLayers\obj\Debug\PresentationLayers.csproj.GenerateResource.cache
+C:\TRUBOM\PresentationLayers\obj\Debug\PresentationLayers.exe
+C:\TRUBOM\PresentationLayers\obj\Debug\PresentationLayers.pdb
+C:\TRUBOM\PresentationLayers\bin\Debug\PresentationLayers.exe.config
+C:\TRUBOM\PresentationLayers\bin\Debug\PresentationLayers.exe
+C:\TRUBOM\PresentationLayers\bin\Debug\PresentationLayers.pdb
+C:\TRUBOM\PresentationLayers\obj\Debug\PresentationLayers.csprojResolveAssemblyReference.cache
+C:\Users\NgoTanTruong\Desktop\TRUBOM\PresentationLayers\bin\Debug\PresentationLayers.exe.config
+C:\Users\NgoTanTruong\Desktop\TRUBOM\PresentationLayers\obj\Debug\PresentationLayers.exe
+C:\Users\NgoTanTruong\Desktop\TRUBOM\PresentationLayers\obj\Debug\PresentationLayers.pdb
+C:\Users\NgoTanTruong\Desktop\TRUBOM\PresentationLayers\bin\Debug\PresentationLayers.exe
+C:\Users\NgoTanTruong\Desktop\TRUBOM\PresentationLayers\bin\Debug\PresentationLayers.pdb
+C:\Users\NgoTanTruong\Desktop\TRUBOM\PresentationLayers\bin\Debug\DataAccessLayers.dll
+C:\Users\NgoTanTruong\Desktop\TRUBOM\PresentationLayers\bin\Debug\DataAccessLayers.pdb
+C:\Users\NgoTanTruong\Desktop\TRUBOM\PresentationLayers\obj\Debug\PresentationLayers.csprojResolveAssemblyReference.cache
+C:\Users\NgoTanTruong\Desktop\TRUBOM\PresentationLayers\obj\Debug\PresentationLayers.frm_trubom.resources
+C:\Users\NgoTanTruong\Desktop\TRUBOM\PresentationLayers\obj\Debug\PresentationLayers.Fr_GiayChungNhan.resources
+C:\Users\NgoTanTruong\Desktop\TRUBOM\PresentationLayers\obj\Debug\PresentationLayers.Properties.Resources.resources
+C:\Users\NgoTanTruong\Desktop\TRUBOM\PresentationLayers\obj\Debug\PresentationLayers.csproj.GenerateResource.Cache
+C:\Users\NgoTanTruong\Desktop\TRUBOM\PresentationLayers\bin\Debug\DataTransferObject.dll
+C:\Users\NgoTanTruong\Desktop\TRUBOM\PresentationLayers\bin\Debug\DataTransferObject.pdb
+C:\Users\NgoTanTruong\Desktop\TRUBOM\PresentationLayers\bin\Debug\BusinessLogicLayers.dll
+C:\Users\NgoTanTruong\Desktop\TRUBOM\PresentationLayers\bin\Debug\BusinessLogicLayers.pdb
+C:\Users\NgoTanTruong\Desktop\TRUBOM\PresentationLayers\obj\Debug\PresentationLayers.Fr_BienBanKD.resources

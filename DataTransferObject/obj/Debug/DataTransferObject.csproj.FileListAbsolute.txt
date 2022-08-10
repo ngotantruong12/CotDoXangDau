@@ -1,0 +1,5 @@
+C:\Users\NgoTanTruong\Desktop\TRUBOM\DataTransferObject\bin\Debug\DataTransferObject.dll
+C:\Users\NgoTanTruong\Desktop\TRUBOM\DataTransferObject\bin\Debug\DataTransferObject.pdb
+C:\Users\NgoTanTruong\Desktop\TRUBOM\DataTransferObject\obj\Debug\DataTransferObject.csprojResolveAssemblyReference.cache
+C:\Users\NgoTanTruong\Desktop\TRUBOM\DataTransferObject\obj\Debug\DataTransferObject.dll
+C:\Users\NgoTanTruong\Desktop\TRUBOM\DataTransferObject\obj\Debug\DataTransferObject.pdb

@@ -1,0 +1,9 @@
+C:\Users\NgoTanTruong\Desktop\TRUBOM\BusinessLogicLayers\bin\Debug\BusinessLogicLayers.dll
+C:\Users\NgoTanTruong\Desktop\TRUBOM\BusinessLogicLayers\bin\Debug\BusinessLogicLayers.pdb
+C:\Users\NgoTanTruong\Desktop\TRUBOM\BusinessLogicLayers\obj\Debug\BusinessLogicLayers.csprojResolveAssemblyReference.cache
+C:\Users\NgoTanTruong\Desktop\TRUBOM\BusinessLogicLayers\obj\Debug\BusinessLogicLayers.dll
+C:\Users\NgoTanTruong\Desktop\TRUBOM\BusinessLogicLayers\obj\Debug\BusinessLogicLayers.pdb
+C:\Users\NgoTanTruong\Desktop\TRUBOM\BusinessLogicLayers\bin\Debug\DataAccessLayers.dll
+C:\Users\NgoTanTruong\Desktop\TRUBOM\BusinessLogicLayers\bin\Debug\DataTransferObject.dll
+C:\Users\NgoTanTruong\Desktop\TRUBOM\BusinessLogicLayers\bin\Debug\DataAccessLayers.pdb
+C:\Users\NgoTanTruong\Desktop\TRUBOM\BusinessLogicLayers\bin\Debug\DataTransferObject.pdb
